@@ -1,7 +1,7 @@
 # Projeto de Oficina Mecânica - Modelagem de Banco de Dados
 
 ## 1. Diagrama do Modelo Lógico
-O diagrama foi estruturado com base no modelo relacional, contendo as tabelas principais do sistema da oficina[span_6](start_span)[span_6](end_span):
+O diagrama foi estruturado com base no modelo relacional, contendo as tabelas principais do sistema da oficina:
 * **CLIENTE**: Armazena os dados cadastrais dos clientes.
 * **PRODUTO**: Regista as peças e serviços disponíveis.
 * **PEDIDO**: Regista a associação do pedido realizado pelo cliente.
